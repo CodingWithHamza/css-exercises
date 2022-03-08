@@ -1,0 +1,19 @@
+.odd{
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(255, 167, 167);
+}
+
+.oddly-cool{
+    font-size: 24px;
+}
+
+#even-2{
+    font-size: 36px;
+    color: blue;
+}
+
+#even-4{
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
